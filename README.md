@@ -1,2 +1,2 @@
 # clairehalloran
-My first repository
+Philly based designer.
